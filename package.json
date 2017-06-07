@@ -6,8 +6,6 @@
     "start": "elf start",
     "build": "elf build"
   },
-  "devDependencies": {
-  },
   "dependencies": {
     "preloader.js": "1.0.0"
   }
