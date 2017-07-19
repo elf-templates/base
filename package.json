@@ -7,6 +7,6 @@
     "build": "elf build"
   },
   "dependencies": {
-    "preloader.js": "1.0.0"
+    "preloader.js": "^1.0.0"
   }
 }
